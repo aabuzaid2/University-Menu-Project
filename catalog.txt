@@ -1,0 +1,15 @@
+Number: CSCE106
+NAME: Fundamentals of Computing 1
+CH: 3
+DESCRIPTION: 106 description
+Prereq:	
+Number: CSCE110
+NAME: Fundamentals of Computing 2
+CH: 3
+DESCRIPTION: 110 description
+Prereq: CSCE106
+Number:	CSCE321
+NAME: algorithms
+CH: 3
+DESCRIPTION: 321 description
+Prereq: CSCE110
